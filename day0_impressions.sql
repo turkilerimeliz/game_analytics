@@ -1,4 +1,4 @@
--- Day0 impressions for interstitital and rewarded 
+-- Day0 Impressions for Interstitital and Rewarded 
 /*
 -- Run when you first create the table
 CREATE OR REPLACE TABLE `spot-the-differences-57838.Spot_Diff_Funnel.Ads`
