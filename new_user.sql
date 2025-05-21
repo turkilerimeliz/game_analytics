@@ -1,4 +1,4 @@
--- Number of daily new user by country and app version
+-- Number of Daily New User by Country and App Version
 SELECT
   geo.country AS country,
   app_info.version AS app_version,
