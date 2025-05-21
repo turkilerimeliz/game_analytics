@@ -1,4 +1,5 @@
- CREATE OR REPLACE TABLE `dataset_id.Level`
+-- Churn Rate Analysis Across Levels, Countries, and App Versions
+CREATE OR REPLACE TABLE `dataset_id.Level`
 OPTIONS(
   description="Detailed level progress info"
 ) AS
